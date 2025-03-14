@@ -1,0 +1,12 @@
+{
+  "hash": "2754477f7cb3d38370d1623f31a816e4",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Xallax's Portfolio\"\nformat:\n    html:\n        code-fold: true\njupyter: python3\n---\n\n\n\n- [Ballard Cadences](ballard_cadences.qmd)\n- [2048](2048.qmd)\n- [Birb Vs Nuke](birb_vs_nuke.qmd)\n- [Turtle Tiling](turtle_tiling.qmd)\n\n",
+    "supporting": [
+      "home_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
