@@ -1,0 +1,41 @@
+{
+  "home.qmd": {
+    "home.html": "76b8fa06"
+  },
+  "index.qmd": {
+    "index.html": "174a71d0"
+  },
+  "about.qmd": {
+    "about.html": "39cbdcc6"
+  },
+  "sites/home.qmd": {
+    "home.html": "6283436f"
+  },
+  "sites/index.qmd": {
+    "index.html": "9fad2d02"
+  },
+  "sites/about.qmd": {
+    "about.html": "1612e2bf"
+  },
+  "sites/xallax_portfolio.qmd": {
+    "xallax_portfolio.html": "31a46442"
+  },
+  "content/pages/home.qmd": {
+    "home.html": "11a9b518"
+  },
+  "content/pages/ballard_cadences.qmd": {
+    "ballard_cadences.html": "3a472edc"
+  },
+  "content/pages/2048.qmd": {
+    "2048.html": "2cbd603d"
+  },
+  "content/pages/turtle_tiling.qmd": {
+    "turtle_tiling.html": "ef857e07"
+  },
+  "content/pages/CYOA.qmd": {
+    "CYOA.html": "6844a372"
+  },
+  "content/pages/birb_vs_nuke.qmd": {
+    "birb_vs_nuke.html": "bba82712"
+  }
+}

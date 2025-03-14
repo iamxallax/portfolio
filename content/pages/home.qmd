@@ -1,0 +1,13 @@
+---
+title: "Xallax's Portfolio"
+format:
+    html:
+        code-fold: true
+jupyter: python3
+---
+
+
+- [Ballard Cadences](ballard_cadences.qmd)
+- [2048](2048.qmd)
+- [Birb Vs Nuke](birb_vs_nuke.qmd)
+- [Turtle Tiling](turtle_tiling.qmd)
