@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "content/pages/birb_vs_nuke.html",
+    "href": "content/pages/birb_vs_nuke.html",
+    "title": "Birb vs Nuke",
+    "section": "",
+    "text": "This is a bullet hell made using Pygame in Python. I wrote in this in 8th for fun. You play as an affectionately named “Birb”, trying to escape nukes and avoid bullets while collecting eggs before they crack on the bottom of the screen. There’s some choice music including sounds for the egg cracking, and some fun meme sounds.\nBirb Vs Nuke on Github"
+  },
+  {
+    "objectID": "content/pages/birb_vs_nuke.html#some-pictures-from-gameplay",
+    "href": "content/pages/birb_vs_nuke.html#some-pictures-from-gameplay",
+    "title": "Birb vs Nuke",
+    "section": "Some pictures from gameplay:",
+    "text": "Some pictures from gameplay:"
+  },
+  {
+    "objectID": "content/pages/turtle_tiling.html",
+    "href": "content/pages/turtle_tiling.html",
+    "title": "Turtle Tiling",
+    "section": "",
+    "text": "Turtle Tiling was a project I made in 8th grade that could make cool patterns out of static shapes. I got the idea after making a similiar piece of artwork for a geometry project, but expanded to include triangles, squares, and hexagons, with the use of trigonometry and other math. This project uses Turtle to draw the shapes by accepting angles and distances, drawing a shape and recursively rotating it to achieve this effect. Since this is made entirely out of straight lines and shapes, if you look carefully, you can see the individual shape from the whole!\nTurtle Tiling on Github\nVisit the site here!"
+  },
+  {
+    "objectID": "content/pages/turtle_tiling.html#some-pictures",
+    "href": "content/pages/turtle_tiling.html#some-pictures",
+    "title": "Turtle Tiling",
+    "section": "Some pictures:",
+    "text": "Some pictures:\nTriangles tiled: \nSquares tiled: \nHexagons (and some triangles) tiled:"
+  },
+  {
+    "objectID": "content/pages/ballard_cadences.html",
+    "href": "content/pages/ballard_cadences.html",
+    "title": "ballard cadences",
+    "section": "",
+    "text": "The problem? Incoming freshman and new percussionists didn’t know the songs we played for drumline. The solution? Write code to\nBirb Vs Nuke on Github\nCheck it out!"
+  },
+  {
+    "objectID": "content/pages/ballard_cadences.html#some-images-from-the-site",
+    "href": "content/pages/ballard_cadences.html#some-images-from-the-site",
+    "title": "ballard cadences",
+    "section": "Some images from the site:",
+    "text": "Some images from the site:\nThe home page: \nThe content for a specific cadence:"
+  },
+  {
+    "objectID": "content/pages/home.html",
+    "href": "content/pages/home.html",
+    "title": "Xallax’s Portfolio",
+    "section": "",
+    "text": "Ballard Cadences\n2048\nBirb Vs Nuke\nTurtle Tiling"
+  },
+  {
+    "objectID": "content/pages/2048.html",
+    "href": "content/pages/2048.html",
+    "title": "2048",
+    "section": "",
+    "text": "2048; the oldie but the goodie! In this game you use the WASD keys (or matching buttons) to move numbered tiles to the other side of the board. Numbers of the same value can combine into one tile worth their amount combined, and the player continues until they have no more playable moves or they create the legendary 2048. This is where I branch off however, as I created options for a more customizable experience. I also hosted this game on Streamlit for anyone to try!\n2048 on Github\nPlay 2048"
+  },
+  {
+    "objectID": "content/pages/2048.html#some-pictures-from-gameplay",
+    "href": "content/pages/2048.html#some-pictures-from-gameplay",
+    "title": "2048",
+    "section": "Some pictures from gameplay:",
+    "text": "Some pictures from gameplay:\nA shot of the board \nOf the sidebar"
+  },
+  {
+    "objectID": "content/pages/CYOA.html",
+    "href": "content/pages/CYOA.html",
+    "title": "Choose Your Own Adventure",
+    "section": "",
+    "text": "I made this in 7th grade for my language arts final as one of my first coding projects ever- and boy was it ambitious. This choose-your-own adventure was built out of the terminal with text inputs, utilizing a .ini file for the narrative. Features include nearly 1000 lines of 7th grade level literature, inventory, health, and money systems, shops, inns, and encounters, cheat codes, and multiple paths for maximum replayability, all built on the hero’s journey story structure.\nThe games starts with some expositions before dumping the player into a town at the bottom of Mount Everest. There the player can buy equipment that allows them to choose different paths on the journey ahead. First, there is a two-way split that then converges only to be seperated again into three directions. This is where the bulk of the game transpires, and where your choices of items at the start matter. Later, there is a different encounter for each path before converging once again to a village near the peak. There the player can fulfill quests and buy items before ascending to the top. At the apex of their journey there is one last encounter with the big bad, before a round of conlusions.\nCYOA on Github"
+  },
+  {
+    "objectID": "content/pages/CYOA.html#some-pictures-from-gameplay",
+    "href": "content/pages/CYOA.html#some-pictures-from-gameplay",
+    "title": "Choose Your Own Adventure",
+    "section": "Some pictures from gameplay:",
+    "text": "Some pictures from gameplay:\nThe .ini file: \nAn example of the game: \nGaining an item then checking inventory:"
+  }
+]
